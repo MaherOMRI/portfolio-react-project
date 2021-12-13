@@ -1,5 +1,4 @@
 import React from "react";
-import MOCodeWhite from "../MOCodeWhite.png";
 
 const Navbar = () => {
   return (
